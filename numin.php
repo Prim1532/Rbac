@@ -1,7 +1,5 @@
 <?php 
-     echo "My name is Prim";
-     echo "ID : 66017167";
-
      echo "Boonyada Sriwilai";
      echo "20 y.";
+     echo "Prim";
 ?>
